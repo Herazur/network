@@ -11,6 +11,9 @@ ve ayrıca doğrudan bir switch veya router’a bağlanacak bir ağ arayüz kart
 NAS’ın ana dezavantajlarından biri, tek bir arıza noktasına sahip olmasıdır. Örnek olarak, bir bileşenin, NAS’daki güç kaynağının arızalanması gibi bir arıza durumunda. O zaman diğer tüm cihazlar, verilerine erişemeyecek.
 ![image](https://user-images.githubusercontent.com/68228757/158702671-bc48c0b2-6f3b-477e-ad0d-5641ffc8d414.png)
 
+SAN
+--
+
 SAN veya (Storage Area Network) depolama alanı ağı, büyük miktarlarda veriyi depolayan ve bunlara erişim sağlayan özel bir yüksek hızlı ağdır.
 ![image](https://user-images.githubusercontent.com/68228757/158702691-c584dea8-f158-4437-a814-00e14418f987.png)
 
