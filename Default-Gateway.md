@@ -1,3 +1,5 @@
+# Default Gateway Nedir?
+
 Windows bilgisayarında, ağ yapılandırmasını kontrol edelim. Bir komut istemi açarsanız ve ardından ipconfig yazarsanız ve çıktıda IP adresini, subnet mask ve bu bilgisayara atanmış default gatewayini görürsünüz.
 ![image](https://user-images.githubusercontent.com/68228757/158676237-fbdd72ac-ef3f-44ff-a782-91794fb757db.png)
 
